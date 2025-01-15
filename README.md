@@ -6,7 +6,7 @@ The merged & re-gridded data (netCDF) should be obtained from Linux with the nam
 
 Process the netCDF files using "Data Processing.ipynb", which can be found in folder "data/raw". The code outputs a flattened version of the 4 netCDF datasets (column bind): precipitation, Tmin, Tmax, and wind. 
 
-By default, the training file should be placed in the "data" folder with title "Training.csv". 
+By default, the training file will be placed in the "data" folder with title "Training.csv" after running the setup code. 
 
 
 ### Step 2: Configure the simulation
