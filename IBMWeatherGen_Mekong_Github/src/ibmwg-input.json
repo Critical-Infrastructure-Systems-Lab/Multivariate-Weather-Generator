@@ -1,0 +1,10 @@
+{
+    "PATH_FILE_IN": "../data/Training.csv",
+    "PATH_FILE_OUT": "../simulations/",
+    "START_YEAR": 2022,
+    "NUM_YEARS": 1,
+    "NUM_SIMULATIONS": 1,
+    "WET_EXTREME": 0.999,
+    "USE_G2S": "False"
+}  
+
